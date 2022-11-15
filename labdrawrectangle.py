@@ -21,8 +21,3 @@ for r in range(h):
 print('#2')
 print(char_frame*w+('\n'+(h-2)*(char_frame+(char_fill*(w-2)+char_frame)*(w>1)+'\n')+(char_frame*w))*(h>1))
 
-print('змея')
-for i in range(h):
-    if i%4==0 or i%4==2: print(char_frame*w)
-    elif i%4==1 :print(char_fill*(w-1)+char_frame)
-    else:print(char_frame+char_fill*(w-1))
