@@ -19,5 +19,4 @@ if what ==2: matrix=list(map(list, zip(*matrix)))[::-1]
 if what ==3: matrix=matrix[::-1]
 if what ==4: matrix=list(i[::-1] for i in matrix)
 print(matrix)
-print("вариант 3 с numpy")
-
+print("вариант 3 с numpy.")
