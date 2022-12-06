@@ -19,7 +19,7 @@ def show(a, s, speed):
     for i in n: print(''.join(i))
     print(a[s[0], s[1]], a[s[0]+1,s[1]], a[s[0]-1,s[1]], a[s[0],s[1]+1], a[s[0],s[1]-1])
     #time.sleep(speed)
-def labyrinth(h: int, w: int, visualize: bool=False):
+def maze(h: int, w: int, visualize: bool=False):
     '''создаёт лабиринт и выводит на экран, 
     
     w - высота, 
@@ -52,29 +52,17 @@ def labyrinth(h: int, w: int, visualize: bool=False):
             if a[s[0],s[1]+1]==0: walls.append('r')
             if a[s[0],s[1]-1]==0: walls.append('l')
             if prev=='u': 
-                try:
-                    walls.remove('d')
-                except ValueError:
-                    pass
-                
+                try:walls.remove('d')
+                except ValueError:pass
             if prev=='d': 
-                try:
-                    walls.remove('u')
-                except ValueError:
-                    pass     
-
+                try:walls.remove('u')
+                except ValueError:pass    
             if prev=='l': 
-                try:
-                    walls.remove('r')
-                except ValueError:
-                    pass
-
+                try:walls.remove('r')
+                except ValueError:pass
             if prev=='r': 
-                try:
-                    walls.remove('l')
-                except ValueError:
-                    pass            
-
+                try:walls.remove('l')
+                except ValueError:pass            
             if walls==[]:break
             d=random.choice(walls) #u d r
             #print(d, walls, prev, n)
@@ -147,5 +135,5 @@ def labyrinth(h: int, w: int, visualize: bool=False):
 
 #h=input()*2
 #w=input()*2
-labyrinth(h=20, w=50, visualize=False)
-labyrinth(h=20, w=50, visualize=True)
+maze (h=20, w=50, visualize=False)
+#maze(h=20, w=50, visualize=True)

@@ -1,2 +1,423 @@
 ALT+SHIFT+UP/DOWN - КОПИРОВАНИЕ ЛИНИИ ВВЕРХ-вниз
 Alt + up +down - переместить строку или выделеенный блок вверх-вниз
+
+Горячие клавиши Visual Studio Code
+В таблице перечислены горячие клавиши по умолчанию, клавиши расширений, и перенастроенные мной.
+
+Файл
+Ctrl + NНовый файл
+Ctrl + Shift + NНовое окно редактора
+Ctrl + W, Ctrl + F4Закрыть окно редактора
+Ctrl + K    OОткрыть папку
+Ctrl + K    WЗакрыть папку
+Ctrl + OОткрыть файл
+Ctrl + WЗакрыть файл
+Ctrl + Shift + NНовое окно редактора
+Ctrl + Shift + W или F4Закрыть текущее окно редактора
+Ctrl + SСохранить
+Ctrl + Shift + SСохранить как
+Ctrl + K    SСохранить все
+Ctrl + K    FПоказать текущий файл в папке
+Ctrl + K    PКопировать путь текущего файла
+Ctrl + K    VMarkdown превью и раделить редактор
+Ctrl + Shift + VMarkdown превью
+Ctrl + QБыстрое открытие
+Ctrl + RОткрыть последний
+Ctrl + PБыстрый переход к файлу
+Ctrl + GПерейти к строке
+Редактирование
+Ctrl + AВыделить все
+Ctrl + ZОтменить
+Ctrl + YВернуть
+Ctrl + X или Shift + DelВырезать (без выделения)
+Ctrl + C или Ctrl + InsКопировать (без выделения)
+Ctrl + V или Shift + InsВставить
+Ctrl + DКопировать текущую строку вниз
+Ctrl + FНайти
+Ctrl + Shift + FЗаменить
+Alt + C / R / WПереключение параметров при поиске
+Alt + EnterВыделить все вхождения при поиске
+F3Найти следующее
+Shift + F3Найти предыдущее
+Ctrl + /Переключить строчный комментарий
+Ctrl + Shift + /Переключить блочный комментарий
+TabРазвернуть аббревиатуру
+Ctrl + K    TabПоказать команды emmet
+Alt + FФорматировать документ
+Alt + Z или Ctrl + LВкл. / выкл. перенос текста
+Ctrl + K    MВыбрать язык документа
+Курсор и строки
+Alt + Shift + →Расширить выделение
+Alt + Shift + ←Сжать выделение
+Alt + ClickДобавить курсор
+Alt + Shift + IВставить курсор в конце каждой выделенной строки
+Alt + Shift + ВыделениеВыделение по столбцам
+Alt + Shift + ↑Добавить курсор выше
+Alt + Shift + ↓Добавить курсор ниже
+Ctrl + Shift + ↑ или Alt + ↑Переместить строку вверх
+Ctrl + Shift + ↓ или Alt + ↓Переместить строку вниз
+Ctrl + Shift + →Добавить следующее вхождение
+Ctrl + Shift + ←Добавить предыдущее вхождение
+Ctrl + Shift + LВыбрать все вхождения
+Ctrl + F2Выделить все вхождения текущего слова
+Ctrl + IВыделить текущую строку
+Ctrl + UУбрать последний добавленный курсор
+Ctrl + EnterВставить пустую строку ниже
+Ctrl + Shift + EnterВставить пустую строку выше
+Ctrl + ]Увеличить табуляцию для строки
+Ctrl + [Уменьшить табуляцию для строки
+HomeВ начало строки
+EndВ конец строки
+Ctrl + HomeВ начало редактора
+Ctrl + EndВ конец редактора
+Ctrl + Shift + [Свернуть текущий блок
+Ctrl + Shift + ]Развернуть текущий блок
+Ctrl + Shift + AСвернуть все блоки
+Ctrl + Shift + ZРазвернуть все блоки
+Ctrl + K    Ctrl + XУдалить конечные пробелы
+Левая панель
+F2Переименовать файл
+Ctrl + Shift + EПроводник
+Ctrl + HНайти в файлах
+Ctrl + Shift + HЗаменить в файлах
+Ctrl + Shift + JДетали замены в файлах
+Ctrl + Shift + GGit
+Ctrl + Shift + DОтладка
+Ctrl + Shift + XРасширения
+Ctrl + BПоказать / скрыть левую панель
+Нижняя панель
+Ctrl + Shift + MПроблемы
+Ctrl + Shift + UВывод
+Ctrl + Shift + YКонсоль отладки
+Ctrl + `Терминал
+Ctrl + Shift + `Создать новый терминал
+Ctrl + Shift + CОткрыть внешний терминал
+Управление редактором
+Ctrl + Shift + RПерезагрузить редактор
+Ctrl + Shift + P или F1Палитра команд
+Ctrl + F11Полноэкранный режим
+Ctrl + K    ZДзэн режим
+Alt + Shift + 1Переключить структуру редактора
+Ctrl + \Разделить редактор и дублировать файл
+Ctrl + Shift + TabПеремещение по вкладкам в истории
+Ctrl + Shift + PageUpПереместить вкладку правее
+Ctrl + Shift + PageDownПереместить вкладку левее
+Ctrl + =Уменьшить масштаб редактора
+Ctrl + -Увеличить масштаб редактора
+Ctrl + Num 0Сбросить масштаб редактора
+Ctrl + ↑Прокрутить редактор на 1 строку вверх
+Ctrl + ↓Прокрутить редактор на 1 строку вниз
+Alt + PageUpПостраничная прокрутка вверх без перемещения курсора
+Alt + PageDownПостраничная прокрутка вниз без перемещения курсора
+Ctrl + 1, Ctrl + 2, Ctrl + 3Фокус на другую область редактора
+Ctrl + K    Ctrl + →Фокус на следующую область редактора
+Ctrl + K    Ctrl + ←Фокус на предыдущую область редактора
+Ctrl + K    →Переместить вкладку в следующую область
+Ctrl + K    ←Переместить вкладку в предыдущую область
+Ctrl + MВключение перемещения фокуса нажатием клавиши Tab
+Ctrl + TПоказать все символы
+Ctrl + Shift + OПереход к символу
+Alt + F1Справка по специальным возможностям
+F12Перейти к определению
+Alt + F12Раскрыть определение
+Ctrl + K    F12Открыть определение сбоку
+Темы оформления
+Ctrl + K    Ctrl + MРасширенная раскладка клавиатуры
+Ctrl + K    Ctrl + TВыбрать тему оформления
+Ctrl + K    Ctrl + IВыбрать тему значков
+Настройки в json файле
+Ctrl + K    Ctrl + KСочетания клавиш
+Ctrl + K    Ctrl + PПараметры
+Ctrl + K    Ctrl + SДобавить новый сниппет
+Отладка
+Ctrl + F5Запустить отладку
+Ctrl + F6Начать без отладки
+Ctrl + F7Остановить отладку
+Ctrl + F8Перезапустить отладку
+Alt + F9Переключить точку останова
+Shift + F9Новая точка останова столбца
+Ctrl + F9Шаг с обходом
+Ctrl + F10Шаг с заходом
+Ctrl + F11Шаг с выходом
+Ctrl + F12Продолжить
+Запуск кода (расширение Code Run)
+F5Запуск кода
+F6Остановка кода
+F7Очистить окно вывода
+F8Закрыть панель снизу
+Git
+Alt + G    HGit History - Показать историю
+Alt + G    PGit Push - Отправить изменения
+Alt + G    CGit Commit - Закоммитить
+Alt + G    BGit Branch - Создать ветку
+Alt + G    TGit Checkout - Переключить ветку
+Alt + G    IGit Init - Инициализировать Git
+Alt + G    SGit Stage
+Alt + G    UGit Unstage
+Alt + G    RGit Refresh
+Python
+Alt + P    RЗапустить во встроенном терминале
+Alt + P    TЗапустить во встроенном терминале
+F9Запустить во встроенном терминале
+F10Зупуск выделенного в терминале
+F11Очистить терминал
+F12Убить терминал
+Расширения
+Ctrl + K    VПревью CSS правил
+Alt + Shift + S    OSVG превью
+Alt + Shift + S    VSVG превью с выбором настроек для конвертирования
+Alt + Shift + S    EКонвертировать SVG в PNG
+Alt + Shift + S    XКонвертировать SVG в PNG с указанием размеров
+Ctrl + SМинифицировать файл
+Ctrl + SpaceТабы в пробелы
+Alt + AВыровнять блок кода
+Alt + Shift + UВыгрузить настройки на Gist
+Alt + Shift + DЗагрузить настройки с Gist
+Мое избранное
+Файл
+Ctrl + K    OОткрыть папку
+Ctrl + K    WЗакрыть папку
+Ctrl + OОткрыть файл
+Ctrl + WЗакрыть файл
+Ctrl + Shift + NНовое окно редактора
+Ctrl + K    FПоказать текущий файл в папке
+Ctrl + K    PКопировать путь текущего файла
+Ctrl + QБыстрое открытие
+Ctrl + GПерейти к строке
+Редактор
+Alt + Z или Ctrl + LВкл. / выкл. перенос текста
+Ctrl + F2Выделить все вхождения текущего слова
+Ctrl + Shift + LВыбрать все вхождения
+Alt + Shift + ВыделениеВыделение по столбцам
+Ctrl + Shift + [Свернуть текущий блок
+Ctrl + Shift + ]Развернуть текущий блок
+Ctrl + Shift + AСвернуть все блоки
+Ctrl + Shift + ZРазвернуть все блоки
+Левая панель
+F2Переименовать файл
+Ctrl + Shift + EПроводник
+Ctrl + HНайти в файлах
+Ctrl + Shift + GGit
+Ctrl + Shift + DОтладка
+Ctrl + Shift + XРасширения
+Нижняя панель
+Ctrl + Shift + MПроблемы
+Ctrl + Shift + UВывод
+Ctrl + Shift + YКонсоль отладки
+Ctrl + `Терминал
+Управление редактором
+Ctrl + Shift + RПерезагрузить редактор
+F11Полноэкранный режим
+Ctrl + K    ZДзэн режим
+Ctrl + \Разделить редактор и дублировать файл
+Ctrl + Shift + TabПеремещение по вкладкам в истории
+Ctrl + Shift + PageUpПереместить вкладку правее
+Ctrl + Shift + PageDownПереместить вкладку левее
+Настройки в json файле
+Ctrl + K    Ctrl + KСочетания клавиш
+Ctrl + K    Ctrl + PПараметры
+Ctrl + K    Ctrl + SДобавить новый сниппет
+Запуск кода (расширение Code Run)
+F5Запуск кода
+F6Остановка кода
+F7Очистить окно вывода
+F8Закрыть панель снизу
+Git
+Alt + G    HGit History - Показать историю
+Alt + G    PGit Push - Отправить изменения
+Alt + G    CGit Commit - Закоммитить
+Alt + G    BGit Branch - Создать ветку
+Alt + G    TGit Checkout - Переключить ветку
+Alt + G    IGit Init - Инициализировать Git
+Alt + G    SGit Stage
+Alt + G    UGit Unstage
+Alt + G    RGit Refresh
+Python
+Alt + P    RЗапустить во встроенном терминале
+Alt + P    TЗапустить во встроенном терминале
+F9Запустить во встроенном терминале
+F10Зупуск выделенного в терминале
+F11Очистить терминал
+F12Убить терминал
+Расширения
+Ctrl + K    VПревью CSS правил
+Alt + Shift + S    VSVG превью с выбором настроек для конвертирования
+Ctrl + SpaceТабы в пробелы
+Alt + AВыровнять блок кода
+Alt + Shift + UВыгрузить настройки на Gist
+Alt + Shift + DЗагрузить настройки с Gist
+LivePreview
+Для работы LivePreview должен быть установлен NodeJS.
+
+1. В Visual Studio Code открываем встроенный терминал (Ctrl + ` или Ctrl + J)
+2. Ввести: live-server
+
+Страница откроется в браузере по умолчанию. Подробнее тут.
+Расширения
+1. Color PickerПозволяет выбирать цвета с палитры и добавляет отображение цветов в коде2. Brackets DarkТема оформления (выбор темы: Ctrl + K Ctrl + T)3. Rainbox BracketsПодсветка парных скобок4. AutoFileNameПодстановка мен файлов при указании пути5. CSS PeekПодстановка мен файлов при указании пути6. Excel ViewerПоказывает CSV файлы в табличном виде (в панели слева ПКМ --> Open Preview)7. Image PreviewПоказывает иконки вставленных в CS картинок рядом с нумерацией строк8. PreviewПревью CSS правил (Ctrl + K V)9. SVG ViewerПросмотр и конвертирование SVG (в панели слева ПКМ --> SVG Preview)10. vscode-pdfvscode-pdf11. minifyМинифицирует JS и CSS (добавить настройки из описания расширения)12. TabSpacerКонвертирует табы в пробелы (Ctrl + Space, ранее Ctrl + Shift + T)13. Better AlignВыравнивает блок кода (добавить настройки из описания расширения)14. Settings SyncСинхронизация настроек с Gist15. Code RunnerПозволяет запускать код на различных языках
+Синхронизация настроек Visual Studio Code с Gist
+1. Установить расширение: Settings Sync
+
+2. Сгенерировать токен на GitHub по инструкции из расширения
+
+3. В Visual Studio Code нажать Shift + Alt + U и ввести токен
+
+4. Если был введен неверный токен, то можно сбросить настройки, и повторить ввод: F1 --> Sync --> Sync: Reset Extension Settings
+
+5. После ввода токена будет показан Gist ID, который нужно скопировать и сохранить для настройки загрузки на других машинах
+
+6. Скорректировать настрйки расширения в соответствии с теми, что ниже. Для вызова настроек: Ctrl + K   Ctrl + S
+
+7. Для вызова настроек Settings Sync использовать сочетание клавиш: F1 --> Sync
+
+
+Настройки расширения на основной машине для выгрузки на Gist:
+
+sync.gist": "9b6cd0c04219e3fac765698f3b95191",ID, которых можно использовать на других машинах для загруски настроек с Gistsync.lastUpload": "2017-06-01T11:18:29.405Z",Время последней выгрузки на Gistsync.autoDownload": false,Автоматическая загрузка настроек с Gist при запуске редактораsync.autoUpload": true,Выгрузка настроек на Gist при запуске редактораsync.lastDownload": "",Время последней загрузки с Gistsync.forceDownload": false,Не загружает настройки с Gist, если они последней версииsync.anonymousGist": false,Создание и загрузка настроек из анонимного Gistsync.host": "",sync.pathPrefix": "",sync.quietSync": true,Страница с результатом после загрузки / выгрузки (true - не показывать)sync.showSummary": true,Показывать в статусной строке статус загрузки / выгрузки
+ 
+Настройки расширения на других машинах для загрузки с Gist:
+
+sync.gist": "9b6cd0c04219e3fac765698f3b95191",ID, которых можно использовать на других машинах для загруски настроек с Gistsync.lastUpload": "",Время последней выгрузки на Gistsync.autoDownload": true,Автоматическая загрузка настроек с Gist при запуске редактораsync.autoUpload": false,Выгрузка настроек на Gist при запуске редактораsync.lastDownload": "2017-06-01T11:18:29.405Z",Время последней загрузки с Gistsync.forceDownload": false,Не загружает настройки с Gist, если они последней версииsync.anonymousGist": false,Создание и загрузка настроек из анонимного Gistsync.host": "",sync.pathPrefix": "",sync.quietSync": true,Страница с результатом после загрузки / выгрузки (true - не показывать)sync.showSummary": true,Показывать в статусной строке статус загрузки / выгрузки
+
+General
+Ctrl+Shift+P, F1 Show Command Palette
+Ctrl+P Quick Open, Go to File…
+Ctrl+Shift+N New window/instance
+Ctrl+Shift+W Close window/instance
+Ctrl+, User Settings
+Ctrl+K Ctrl+S Keyboard Shortcuts
+Basic editing
+Ctrl+X Cut line (empty selection)
+Ctrl+C Copy line (empty selection)
+Alt+ ↑ / ↓ Move line up/down
+Shift+Alt + ↓ / ↑ Copy line up/down
+Ctrl+Shift+K Delete line
+Ctrl+Enter Insert line below
+Ctrl+Shift+Enter Insert line above
+Ctrl+Shift+\ Jump to matching bracket
+Ctrl+] / [ Indent/outdent line
+Home / End Go to beginning/end of line
+Ctrl+Home Go to beginning of file
+Ctrl+End Go to end of file
+Ctrl+↑ / ↓ Scroll line up/down
+Alt+PgUp / PgDn Scroll page up/down
+Ctrl+Shift+[ Fold (collapse) region
+Ctrl+Shift+] Unfold (uncollapse) region
+Ctrl+K Ctrl+[ Fold (collapse) all subregions
+Ctrl+K Ctrl+] Unfold (uncollapse) all subregions
+Ctrl+K Ctrl+0 Fold (collapse) all regions
+Ctrl+K Ctrl+J Unfold (uncollapse) all regions
+Ctrl+K Ctrl+C Add line comment
+Ctrl+K Ctrl+U Remove line comment
+Ctrl+/ Toggle line comment
+Shift+Alt+A Toggle block comment
+Alt+Z Toggle word wrap
+Navigation
+Ctrl+T Show all Symbols
+Ctrl+G Go to Line...
+Ctrl+P Go to File...
+Ctrl+Shift+O Go to Symbol...
+Ctrl+Shift+M Show Problems panel
+F8 Go to next error or warning
+Shift+F8 Go to previous error or warning
+Ctrl+Shift+Tab Navigate editor group history
+Alt+ ← / → Go back / forward
+Ctrl+M Toggle Tab moves focus
+Search and replace
+Ctrl+F Find
+Ctrl+H Replace
+F3 / Shift+F3 Find next/previous
+Alt+Enter Select all occurences of Find match
+Ctrl+D Add selection to next Find match
+Ctrl+K Ctrl+D Move last selection to next Find match
+Alt+C / R / W Toggle case-sensitive / regex / whole word
+Multi-cursor and selection
+Alt+Click Insert cursor
+Ctrl+Alt+ ↑ / ↓ Insert cursor above / below
+Ctrl+U Undo last cursor operation
+Shift+Alt+I Insert cursor at end of each line selected
+Ctrl+L Select current line
+Ctrl+Shift+L Select all occurrences of current selection
+Ctrl+F2 Select all occurrences of current word
+Shift+Alt+→ Expand selection
+Shift+Alt+← Shrink selection
+Shift+Alt +
+(drag mouse)
+Column (box) selection
+Ctrl+Shift+Alt
++ (arrow key)
+Column (box) selection
+Ctrl+Shift+Alt
++PgUp/PgDn
+Column (box) selection page up/down
+Rich languages editing
+Ctrl+Space, Ctrl+I Trigger suggestion
+Ctrl+Shift+Space Trigger parameter hints
+Shift+Alt+F Format document
+Ctrl+K Ctrl+F Format selection
+F12 Go to Definition
+Alt+F12 Peek Definition
+Ctrl+K F12 Open Definition to the side
+Ctrl+. Quick Fix
+Shift+F12 Show References
+F2 Rename Symbol
+Ctrl+K Ctrl+X Trim trailing whitespace
+Ctrl+K M Change file language
+Editor management
+Ctrl+F4, Ctrl+W Close editor
+Ctrl+K F Close folder
+Ctrl+\ Split editor
+Ctrl+ 1 / 2 / 3 Focus into 1
+st, 2nd or 3rd editor group
+Ctrl+K Ctrl+ ←/→ Focus into previous/next editor group
+Ctrl+Shift+PgUp / PgDn Move editor left/right
+Ctrl+K ← / → Move active editor group
+File management
+Ctrl+N New File
+Ctrl+O Open File...
+Ctrl+S Save
+Ctrl+Shift+S Save As...
+Ctrl+K S Save All
+Ctrl+F4 Close
+Ctrl+K Ctrl+W Close All
+Ctrl+Shift+T Reopen closed editor
+Ctrl+K Enter Keep preview mode editor open
+Ctrl+Tab Open next
+Ctrl+Shift+Tab Open previous
+Ctrl+K P Copy path of active file
+Ctrl+K R Reveal active file in Explorer
+Ctrl+K O Show active file in new window/instance
+Display
+F11 Toggle full screen
+Shift+Alt+0 Toggle editor layout (horizontal/vertical)
+Ctrl+ = / - Zoom in/out
+Ctrl+B Toggle Sidebar visibility
+Ctrl+Shift+E Show Explorer / Toggle focus
+Ctrl+Shift+F Show Search
+Ctrl+Shift+G Show Source Control
+Ctrl+Shift+D Show Debug
+Ctrl+Shift+X Show Extensions
+Ctrl+Shift+H Replace in files
+Ctrl+Shift+J Toggle Search details
+Ctrl+Shift+U Show Output panel
+Ctrl+Shift+V Open Markdown preview
+Ctrl+K V Open Markdown preview to the side
+Ctrl+K Z Zen Mode (Esc Esc to exit)
+Debug
+F9 Toggle breakpoint
+F5 Start/Continue
+Shift+F5 Stop
+F11 / Shift+F11 Step into/out
+F10 Step over
+Ctrl+K Ctrl+I Show hover
+Integrated terminal
+Ctrl+` Show integrated terminal
+Ctrl+Shift+` Create new terminal
+Ctrl+C Copy selection
+Ctrl+V Paste into active terminal
+Ctrl+↑ / ↓ Scroll up/down
+Shift+PgUp / PgDn Scroll page up/down
+Ctrl+Home / End Scroll to top/bottom
+Keyboard shortcuts for Windows
+Other operating systems’ keyboard shortcuts and additional 
+unassigned shortcuts available at aka.ms/vscodekeybindings
