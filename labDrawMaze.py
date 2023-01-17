@@ -135,5 +135,5 @@ def maze(h: int, w: int, visualize: bool=False):
 
 #h=input()*2
 #w=input()*2
-maze (h=20, w=50, visualize=False)
+maze (h=20, w=50, visualize=True)
 #maze(h=20, w=50, visualize=True)

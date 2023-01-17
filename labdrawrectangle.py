@@ -14,8 +14,7 @@ char_fill='█' if is_fill else ' '
 print('#1')
 char_frame=' ' if is_fill else '█'
 for r in range(h):
-    if r==0: print(char_frame*w)
-    elif r==h-1: print(char_frame*w)
+    if r==0 or r==h-1: print(char_frame*w)
     else: print(char_frame+(char_fill*(w-2)+char_frame)*(w>1))
 
 print('#2')
